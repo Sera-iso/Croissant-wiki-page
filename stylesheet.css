@@ -1,0 +1,13 @@
+body {
+    display: block;
+    margin: 20px auto;
+    max-width: 800px;
+    text-align: center;
+}
+
+.header {
+    margin: 100px 20px 60px;
+}
+.description {
+    margin-top: 40px;
+}
