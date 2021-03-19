@@ -12,7 +12,7 @@ Try it yourself at https://inspiring-murdock-b31938.netlify.app/
 
 # Credits
 
-* Reviews and guardian angels behind the scenes are the folks of www.shecodes.io and my mentor Carlos Crespo
+Reviews and guardian angels behind the scenes are the folks of www.shecodes.io and my mentor Carlos Crespo
 
 
 
