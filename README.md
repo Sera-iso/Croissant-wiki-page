@@ -6,7 +6,7 @@ A simple multi-pages website built with Bootstrap, HTML and CSS. It does nothing
 
 ### Responsive
 
-<img src="https://user-images.githubusercontent.com/74925057/111837988-f9413800-88f8-11eb-83ca-94a356866e78.gif" width="800" height="458">
+<img src="https://user-images.githubusercontent.com/74925057/111837988-f9413800-88f8-11eb-83ca-94a356866e78.gif">
 
 Try it yourself at https://inspiring-murdock-b31938.netlify.app/
 
